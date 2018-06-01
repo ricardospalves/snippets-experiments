@@ -2,6 +2,12 @@
 
 Repositório com pequenos exemplos e trechos de códigos para praticar e melhorar minhas habilidades.
 
+## Snippets e exemplos
+
+### JavaScript puro
+
+* [**Filtrando uma lista**](https://ricardospalves.github.io/snippets-experiments/filter-list/)
+
 ## Inspirações
 
 * [Cristiano Gonçalves](https://github.com/crisgon/Javascript-Experiments)
