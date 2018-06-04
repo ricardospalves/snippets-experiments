@@ -7,6 +7,7 @@ Repositório com pequenos exemplos e trechos de códigos para praticar e melhora
 ### JavaScript puro
 
 * [**Filtrando uma lista**](https://ricardospalves.github.io/snippets-experiments/filter-list/)
+* [**Localidade do DDD**](https://ricardospalves.github.io/snippets-experiments/localidade-ddd/)
 
 ## Inspirações
 
