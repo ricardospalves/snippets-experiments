@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Copiar texto</title>
+  <title>Escanear cartão de crédito</title>
 
   <style>
     *,
@@ -25,8 +25,13 @@
   <p>
     <a href="https://github.com/ricardospalves/snippets-experiments#snippets-experiments">← Voltar para o repositório</a>
   </p>
-  <input type="text" value="Lorem ipsum dolor" data-clipboard="content" readonly>
-  <button data-clipboard="button">Copiar</button>
-  <script src="main.js" async></script>
+
+  <form>
+    <p>
+      <label for="inputCreditCardNumber">Número do cartão</label>
+      <input type="text" id="inputCreditCardNumber" name="creditCardNumber" x-autocompletetype="cc-number">
+    </p>
+  </form>
+
 </body>
 </html>
