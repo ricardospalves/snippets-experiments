@@ -6,11 +6,11 @@ Repositório com pequenos exemplos e trechos de códigos para praticar e melhora
 
 ### JavaScript puro
 
-* [**Filtrando uma lista**](https://ricardospalves.github.io/snippets-experiments/filter-list/index.html)
-* [**Localidade do DDD**](https://ricardospalves.github.io/snippets-experiments/localidade-ddd/index.html)
-* [**Cronômetro**](https://ricardospalves.github.io/snippets-experiments/cronometro/index.html)
-* [**Gerando um número aleatório para Mega-sena**](https://ricardospalves.github.io/snippets-experiments/mega-sena-randomico/index.html)
-* [**Copiar texto**](https://ricardospalves.github.io/snippets-experiments/copiar-texto/index.html)
+* [**Filtrando uma lista**](https://ricardospalves.github.io/snippets-experiments/js-filtrar-lista/index.html)
+* [**Localidade do DDD**](https://ricardospalves.github.io/snippets-experiments/js-localidade-ddd/index.html)
+* [**Cronômetro**](https://ricardospalves.github.io/snippets-experiments/js-cronometro/index.html)
+* [**Gerando um número aleatório para Mega-sena**](https://ricardospalves.github.io/snippets-experiments/js-mega-sena-randomico/index.html)
+* [**Copiar texto**](https://ricardospalves.github.io/snippets-experiments/js-copiar-texto/index.html)
 
 ## Inspirações
 
