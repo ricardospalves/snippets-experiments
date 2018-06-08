@@ -11,6 +11,8 @@ Repositório com pequenos exemplos e trechos de códigos para praticar e melhora
 * [**Cronômetro**](https://ricardospalves.github.io/snippets-experiments/js-cronometro/index.html)
 * [**Gerando um número aleatório para Mega-sena**](https://ricardospalves.github.io/snippets-experiments/js-mega-sena-randomico/index.html)
 * [**Copiar texto**](https://ricardospalves.github.io/snippets-experiments/js-copiar-texto/index.html)
+* [**Contador de caracteres restantes**](https://ricardospalves.github.io/snippets-experiments/js-contador-de-caracteres-restantes/index.html)
+* [**js-efeito-maquina-de-escrever**](https://ricardospalves.github.io/snippets-experiments/js-efeito-maquina-de-escrever/index.html)
 
 ## Inspirações
 
