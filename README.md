@@ -13,6 +13,7 @@ Repositório com pequenos exemplos e trechos de códigos para praticar e melhora
 * [**Copiar texto**](https://ricardospalves.github.io/snippets-experiments/js-copiar-texto/index.html)
 * [**Contador de caracteres restantes**](https://ricardospalves.github.io/snippets-experiments/js-contador-de-caracteres-restantes/index.html)
 * [**Efeito máquina de escrever**](https://ricardospalves.github.io/snippets-experiments/js-efeito-maquina-de-escrever/index.html)
+* [**Gerador randômico de avatar**](https://ricardospalves.github.io/snippets-experiments/js-gerador-randomico-avatar/index.html)
 
 ## Inspirações
 
