@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Copiar texto</title>
+
+  <style>
+    *,
+    ::before,
+    ::after {
+      box-sizing: border-box;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+
+      min-height: 100vh;
+      margin: 0;
+
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+      font-size: 1rem;
+      line-height: 1.5;
+    }
+
+    .avatar {
+      display: flex;
+      flex-wrap: wrap;
+      width: 8rem;
+      height: 8rem;
+      margin-top: 4rem;
+    }
+
+    .avatar__dot {
+      width: 12.5%;
+      border-radius: 50%;
+      transition: .2s;
+    }
+
+    .avatar__dot.is-on {
+      background-color: red;
+    }
+
+    .avatar__dot::before {
+      content: "";
+      display: block;
+      padding-top: 100%;
+    }
+  </style>
+</head>
+<body>
+  <p>
+    <a href="https://github.com/ricardospalves/snippets-experiments#snippets-experiments">← Voltar para o repositório</a>
+  </p>
+
+  <button data-random-avatar="button">Novo avatar</button>
+
+  <div class="avatar" data-random-avatar="avatar">
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+    <div class="avatar__dot" data-random-avatar="dot"></div>
+  </div>
+
+  <script src="main.js" async></script>
+</body>
+</html>
