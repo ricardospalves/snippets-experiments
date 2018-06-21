@@ -14,6 +14,7 @@ Repositório com pequenos exemplos e trechos de códigos para praticar e melhora
 * [**Contador de caracteres restantes**](https://ricardospalves.github.io/snippets-experiments/js-contador-de-caracteres-restantes/index.html)
 * [**Efeito máquina de escrever**](https://ricardospalves.github.io/snippets-experiments/js-efeito-maquina-de-escrever/index.html)
 * [**Gerador randômico de avatar**](https://ricardospalves.github.io/snippets-experiments/js-gerador-randomico-avatar/index.html)
+* [**Tipo de dispositivo**](https://ricardospalves.github.io/snippets-experiments/js-tipo-de-dispositivo/index.html)
 
 ## Inspirações
 
